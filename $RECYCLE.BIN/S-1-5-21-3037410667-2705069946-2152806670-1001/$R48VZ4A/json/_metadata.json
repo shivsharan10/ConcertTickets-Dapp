@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/1.png",
+    "dna": "03c9f12f0df15741b4136a68e86c58b0f5e89b73",
+    "edition": 1,
+    "date": 1649596720215,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG20"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F12"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M9"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/2.png",
+    "dna": "647f91e6c4195e527b0c26a6b71b577ad9d1e8ca",
+    "edition": 2,
+    "date": 1649596721289,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B21"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/3.png",
+    "dna": "48119648d494bbb678ce97844ebbd6ccb7727305",
+    "edition": 3,
+    "date": 1649596722479,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG18"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B16"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/4.png",
+    "dna": "0731bee164af6bfbd1da682100ebdd7636d30f62",
+    "edition": 4,
+    "date": 1649596724597,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG16"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B11"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F12"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M13"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/5.png",
+    "dna": "b8794a4a577f6d42202cb07094daee393477c595",
+    "edition": 5,
+    "date": 1649596726305,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG25"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i10"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/6.png",
+    "dna": "cba04b99fe9d2ba0b8b631936f93432e96f3d71b",
+    "edition": 6,
+    "date": 1649596727372,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG9"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B5"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/7.png",
+    "dna": "5dc525a55a3a9e138fbcb3724e596405fa147be4",
+    "edition": 7,
+    "date": 1649596728444,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG15"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B19"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/8.png",
+    "dna": "1a28074412a4669b075a8a36d7146bfd2d1864ea",
+    "edition": 8,
+    "date": 1649596729470,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG12"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B14"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F19"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/9.png",
+    "dna": "73ffb93c1b19fe2a3bc49faed6162f95af97e13c",
+    "edition": 9,
+    "date": 1649596731772,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG14"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F23"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/10.png",
+    "dna": "1ec8d5b67ffd852029ab23ae71eda7a5dc970df1",
+    "edition": 10,
+    "date": 1649596732767,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG8"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i5"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

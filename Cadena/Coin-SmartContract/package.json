@@ -1,9 +1,12 @@
 {
+  "homepage": "https://shivsharan10.github.io/Coin-SmartContract.git",
   "name": "coin-smartcontract",
   "version": "1.0.0",
   "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -22,6 +25,14 @@
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.0.0",
     "ethers": "^5.0.0",
+    "gh-pages": "^3.2.3",
     "hardhat": "^2.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivsharan10/Coin-SmartContract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivsharan10/Coin-SmartContract/issues"
   }
 }

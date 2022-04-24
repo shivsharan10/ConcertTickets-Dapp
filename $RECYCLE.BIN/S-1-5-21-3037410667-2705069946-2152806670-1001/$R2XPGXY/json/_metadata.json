@@ -1,0 +1,1277 @@
+[
+  {
+    "name": "Spooky NFTs #1",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/1.png",
+    "dna": "682e77d9b1ae7fd9a43acd1e41c804c578ccc43c",
+    "edition": 1,
+    "date": 1649673468110,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG5"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #2",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/2.png",
+    "dna": "77e9dc71ef65abc98bea65df78483b7e60475ac8",
+    "edition": 2,
+    "date": 1649673472452,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F21"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M9"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #3",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/3.png",
+    "dna": "d1027874d13f080233742c9d1bcd7befc469f1cd",
+    "edition": 3,
+    "date": 1649673477119,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #4",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/4.png",
+    "dna": "c86864bec55e9379c9da0cf773699f00cff13158",
+    "edition": 4,
+    "date": 1649673482106,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B17"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #5",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/5.png",
+    "dna": "8b7ca344014b07558b06109ad1cdd212103d9769",
+    "edition": 5,
+    "date": 1649673489539,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #6",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/6.png",
+    "dna": "47a50befa99030c51e6b3f04e9fd114ae4a72806",
+    "edition": 6,
+    "date": 1649673494282,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG6"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #7",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/7.png",
+    "dna": "d5425f3c6539bff994cfc9e208a3581392b91455",
+    "edition": 7,
+    "date": 1649673499501,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #8",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/8.png",
+    "dna": "6d2b8f9182d34770dc08a0da524b13a3ffb5b8f1",
+    "edition": 8,
+    "date": 1649673503161,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B11"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #9",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/9.png",
+    "dna": "dd74bcd3ef346573b3d725918e4cfac1a1165d22",
+    "edition": 9,
+    "date": 1649673507834,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG15"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B24"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i2"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #10",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/10.png",
+    "dna": "43344dc908b475b7c3fb91e20f176bca475ea85a",
+    "edition": 10,
+    "date": 1649673512421,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B6"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #11",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/11.png",
+    "dna": "ef1ec09385c00f6957e891ee4f8cfca1e1f2129e",
+    "edition": 11,
+    "date": 1649673516312,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG11"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #12",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/12.png",
+    "dna": "d461140c403be4adc2b55e87bea2383e3bed5d7b",
+    "edition": 12,
+    "date": 1649673519711,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG11"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B12"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #13",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/13.png",
+    "dna": "ed248154f06d56a3d46f5040dc930647add9c6bc",
+    "edition": 13,
+    "date": 1649673524348,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B10"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i2"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #14",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/14.png",
+    "dna": "7e88de2de0a1cc8eebeb9457f218a5307d9eb726",
+    "edition": 14,
+    "date": 1649673528523,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #15",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/15.png",
+    "dna": "b913a70186628395facd4d9581429a9753203db0",
+    "edition": 15,
+    "date": 1649673531692,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG3"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i15"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #16",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/16.png",
+    "dna": "5a5f749995e2a83cf92ade490db121350827d8a7",
+    "edition": 16,
+    "date": 1649673533581,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i15"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F13"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M11"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #17",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/17.png",
+    "dna": "609fa21ef03c04cc372727e1ebdcfb0e85e7080a",
+    "edition": 17,
+    "date": 1649673537857,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B22"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i8"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #18",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/18.png",
+    "dna": "de7909551aeb7626725cf84abececda700cdd69a",
+    "edition": 18,
+    "date": 1649673539760,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG17"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #19",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/19.png",
+    "dna": "77d7d45e4c68270ce4b1a3bceb495766024dc1d3",
+    "edition": 19,
+    "date": 1649673542789,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F17"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #20",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/20.png",
+    "dna": "e2a2c5f747921e4a1a4ee4a3f121a97d7d22852d",
+    "edition": 20,
+    "date": 1649673547176,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG6"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #21",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/21.png",
+    "dna": "2580351223333bce3f5e3f1e07fb781c2cfb5376",
+    "edition": 21,
+    "date": 1649673550944,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B14"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F17"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #22",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/22.png",
+    "dna": "d98287640cca85fee2ff41f32b41189399d875e1",
+    "edition": 22,
+    "date": 1649673552941,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B18"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M9"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #23",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/23.png",
+    "dna": "30deb1611eb8b1c5fbf8fbdaad3ba0ae07e25d06",
+    "edition": 23,
+    "date": 1649673556500,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG12"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #24",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/24.png",
+    "dna": "5e43b73c932b8c899eaffedb6108e5d6c61c0d4b",
+    "edition": 24,
+    "date": 1649673560110,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG16"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Spooky NFTs #25",
+    "description": "25 Unique Spooky NFTs",
+    "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/25.png",
+    "dna": "8e5f2c8294d5a40185843fb22eed69b77ea025db",
+    "edition": 25,
+    "date": 1649673565302,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "SpookyNFTs",
+      "family": "SpookyNFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG14"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B12"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M13"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "name": "Spooky NFTs #3",
+  "description": "25 Unique Spooky NFTs",
+  "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/3.png",
+  "dna": "d1027874d13f080233742c9d1bcd7befc469f1cd",
+  "edition": 3,
+  "date": 1649673477119,
+  "seller_fee_basis_points": 250,
+  "collection": {
+    "name": "SpookyNFTs",
+    "family": "SpookyNFTs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "B25"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "i6"
+    },
+    {
+      "trait_type": "Face",
+      "value": "F14"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "M4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

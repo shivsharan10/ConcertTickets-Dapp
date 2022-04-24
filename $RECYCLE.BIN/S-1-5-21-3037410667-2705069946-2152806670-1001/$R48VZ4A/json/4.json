@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://Qma4rvcmvayxEsqYotBCNo2HXwKep7fFvcF83HFd4qnP2K/4.png",
+  "dna": "0731bee164af6bfbd1da682100ebdd7636d30f62",
+  "edition": 4,
+  "date": 1649596724597,
+  "seller_fee_basis_points": 250,
+  "collection": {
+    "name": "SpookyNFTs",
+    "family": "SpookyNFTs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x0A7bFc254Ae783D445b6DA9b5294dB31a81D2ccb",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "BG16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "B11"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "i11"
+    },
+    {
+      "trait_type": "Face",
+      "value": "F12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "M13"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
