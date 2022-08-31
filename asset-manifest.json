@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Concert-Tickets/static/css/main.b03a23b3.chunk.css",
+    "main.js": "/Concert-Tickets/static/js/main.5da334f1.chunk.js",
+    "main.js.map": "/Concert-Tickets/static/js/main.5da334f1.chunk.js.map",
+    "runtime-main.js": "/Concert-Tickets/static/js/runtime-main.6098126e.js",
+    "runtime-main.js.map": "/Concert-Tickets/static/js/runtime-main.6098126e.js.map",
+    "static/js/2.9b1844d6.chunk.js": "/Concert-Tickets/static/js/2.9b1844d6.chunk.js",
+    "static/js/2.9b1844d6.chunk.js.map": "/Concert-Tickets/static/js/2.9b1844d6.chunk.js.map",
+    "static/js/3.16b919f7.chunk.js": "/Concert-Tickets/static/js/3.16b919f7.chunk.js",
+    "static/js/3.16b919f7.chunk.js.map": "/Concert-Tickets/static/js/3.16b919f7.chunk.js.map",
+    "index.html": "/Concert-Tickets/index.html",
+    "static/css/main.b03a23b3.chunk.css.map": "/Concert-Tickets/static/css/main.b03a23b3.chunk.css.map",
+    "static/js/2.9b1844d6.chunk.js.LICENSE.txt": "/Concert-Tickets/static/js/2.9b1844d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6098126e.js",
+    "static/js/2.9b1844d6.chunk.js",
+    "static/css/main.b03a23b3.chunk.css",
+    "static/js/main.5da334f1.chunk.js"
+  ]
+}
